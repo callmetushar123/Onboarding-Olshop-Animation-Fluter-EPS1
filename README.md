@@ -1,2 +1,2 @@
-# Onboarding-Olshop-Animation-Fluttter-EPS1
+# Onboarding-Olshop-Animation-Flutter-EPS1
  Hopefully useful works made by me.
